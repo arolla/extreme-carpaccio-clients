@@ -14,7 +14,7 @@ A ruby client based on [http://www.sinatrarb.com/](Sinatra)
     ruby lib/extreme-carpaccio.rb
 ```
 
-The server listens on port 9000: (http://localhost:4567/ping)[http://localhot:4567]
+The server listens on port 4567: (http://localhost:4567/ping)[http://localhot:4567]
 
 ## Test
 
