@@ -20,7 +20,7 @@ It can now run without Visual studio as well and on other platform using Mono.
 
 You just need to run
 
-* `build.sh` on windows
-* `build.cmd` on linux
+* `build.cmd` on windows
+* `build.sh` on linux
 
 
