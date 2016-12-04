@@ -1,4 +1,4 @@
-# NANCY client
+# Nancy client
 
 Welcome on Nancy client :)
 
