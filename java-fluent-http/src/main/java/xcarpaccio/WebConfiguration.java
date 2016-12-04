@@ -25,8 +25,7 @@ public class WebConfiguration implements Configuration {
                     Quote quote = context.extract(Quote.class);
                     logger.log("Unserialized quote: " + quote);
 
-                    double total = 42.0;
-                    Answer answer = new Answer(total);
+                    Answer answer = new Answer();
                     return new Payload("application/json", answer, 200);
                 }))
         ;
